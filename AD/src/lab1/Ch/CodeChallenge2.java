@@ -1,6 +1,4 @@
-package CodeChallenges;
-
-import java.lang.ref.SoftReference;
+package lab1.Ch;
 
 public class CodeChallenge2 {
     private static String compute(int number)
